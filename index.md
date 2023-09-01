@@ -1,0 +1,14 @@
+# Tshepo Masilo
+
+## My profile
+
+### Let's start
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+ Hello world!
+```
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
